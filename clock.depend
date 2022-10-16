@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1665937523 source:d:\munna\clock\main.cpp
+	<stdio.h>
+	<math.h>
+	<GL/glut.h>
+	<GL/gl.h>
+	<time.h>
+	<sys/timeb.h>
+	<string.h>
+
